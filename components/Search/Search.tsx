@@ -1,5 +1,5 @@
 "use client"
-import { useState } from "react";
+import { KeyboardEvent, useState } from "react";
 import { Button } from "../Button/Button";
 import { Input } from "../Input/Input";
 import styles from "./Search.module.css";
